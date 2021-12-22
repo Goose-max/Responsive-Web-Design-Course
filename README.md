@@ -1,2 +1,2 @@
 # Responsive-Web-Design-Course
-www.freecodecamp.org - Responsive Web Design (HTML&amp;CSS) 
+https://www.freecodecamp.org/learn/responsive-web-design/ - Responsive Web Design (HTML&amp;CSS) 
